@@ -36,7 +36,6 @@ public class Pizza {
       this.price += bagPackPrice;
 
   }
-
 public void getBill(){
       String bill="";
       System.out.println("Pizza: Rs."+basePizzaPrice);
