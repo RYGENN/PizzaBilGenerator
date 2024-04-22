@@ -8,8 +8,8 @@ public class Main {
         System.out.print("--------------------"+"\n");
         basePizza.getBill();
 
-//        DeluxPizza dPizza=new DeluxPizza(true);
-//        dPizza.getBill();
+       DeluxPizza dPizza=new DeluxPizza(true);
+       dPizza.getBill();
         }
 
 }
